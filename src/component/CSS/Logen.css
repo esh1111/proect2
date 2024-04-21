@@ -1,0 +1,153 @@
+@media (min-width: 1900px) {
+    body{
+        background-color: #F8A80D;
+        height:100%;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: auto;
+    }
+    .login{
+        margin-top: 200px;
+    }
+    .okno-log{
+        background-color: #F07F16;
+        height:100%;
+        width: 25%;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 5%;
+        padding-bottom: 60px;
+    }
+    .log-text{
+        font-size: 100%;
+        text-align: center;
+        padding-top: 5%;
+    }
+    .phone-log{
+        margin-left: 15%;
+    }
+    .phone-ukaz-log{
+        border-radius: 20px;
+        width: 80%;
+        height: 40px;
+        padding: 5px;
+        font-size: 100%;
+        margin-top: -20px;
+        box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.16);
+    }
+    .password{
+        margin-left: 15%;
+        margin-top: -10px;
+    }
+    .password-ukaz{
+        border-radius: 20px;
+        width: 80%;
+        height: 40px;
+        padding: 5px;
+        font-size: 100%;
+        margin-top: -20px;
+        box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.16);
+    }
+    .class123{
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+    }
+    .class12{
+        display: flex;
+        justify-content: center; 
+        align-items: center; 
+    }
+    .log-button {
+        border-radius: 20px;
+        height: 52px;
+        width: 70%; 
+        margin-top:30px; 
+        box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.16);
+        background-color: #f0be62;
+    }
+    .s123{
+        text-decoration: none;
+        color: black;
+    }
+}
+
+
+
+@media (max-width: 430px) {
+    body{
+        background-color: #F8A80D;
+        justify-content: center;
+        align-items: center;
+    }
+    .login{
+        justify-content: center; 
+        align-items: center; 
+    }
+    .okno-log{
+        background-color: #F07F16;
+        height:100%;
+        width: 85%;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 8%;
+        padding-bottom: 40px;
+        margin-top: 43%;
+    }
+    .log-text{
+        font-size: 100%;
+        text-align: center;
+        padding-top: 5%;
+    }
+    .phone-log{
+        margin-left: 15%;
+        margin-top: -10px;
+    }
+    .phone-ukaz-log{
+        border-radius: 20px;
+        width: 80%;
+        height: 40px;
+        padding: 5px;
+        font-size: 100%;
+        margin-top: -20px;
+        box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.16);
+    }
+    .password{
+        margin-left: 15%;
+        margin-top: -10px;
+    }
+    .password-ukaz{
+        border-radius: 20px;
+        width: 80%;
+        height: 40px;
+        padding: 5px;
+        font-size: 100%;
+        margin-top: -20px;
+        box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.16);
+    }
+    .class123{
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+    }
+    
+    .class12{
+        display: flex;
+        justify-content: center; 
+        align-items: center; 
+    }
+    .log-button {
+        border-radius: 20px;
+        height: 52px;
+        width: 70%; 
+        margin-top:30px; 
+        box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.16);
+        background-color: #f0be62;
+        
+    }
+    .s123{
+        text-decoration: none;
+        color: black;
+    }
+}
