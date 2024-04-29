@@ -1,0 +1,74 @@
+@media (max-width: 1920px) {
+    .footer-line{
+        background-color: #F8A80D;
+        width: 100%;
+        height: 15%;
+        display: flex;
+    }
+    .sam-logo-fot{
+        width: 320px;
+        height: 70px;
+        margin-left: 80px;
+        margin-top: 110px;
+    }
+    .profile-fot{
+        margin-bottom: 120px;
+        margin-left: 150px;
+    }
+    .nadp-profile-fot{
+        margin-bottom: 10px;
+        margin-left: 150px;
+    }
+    .my-profile-fot{
+        margin-left: 150px;
+        font-size: 20px;
+    }
+    .my-lib-fot{
+        margin-left: 150px;
+        font-size: 20px;
+    }
+    .friends-fot{
+        margin-left: 150px;
+        font-size: 20px;
+    }
+    .obmen-fot{
+        margin-left: 150px;
+        font-size: 20px;
+    }
+    .o-nas-fot{
+        margin-left: 300px;
+    }
+    .nadp-email-fot{
+        font-size: 20px;
+        position: relative;
+        top: -10px;
+    }
+    .email-fot{
+        font-size: 20px;
+        position: relative;
+        top: -10px;
+    }
+    .number-fot{
+        font-size: 20px;
+        margin-top: 25px;
+        position: relative;
+        top: -20px;
+    }
+    .sam-number-fot{
+        font-size: 20px;
+        position: relative;
+        top: -20px;
+    }
+    .git-fot{
+        height: 50px;
+        width: 50px;
+    }
+    .telega-fot{
+        height: 50px;
+        width: 50px;
+        margin-left: 30px;
+    }
+}
+@media (max-width: 440px) {
+    
+}
