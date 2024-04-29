@@ -1,0 +1,61 @@
+@media (max-width: 1920px) {
+    .header-line{
+    background-color: #F8A80D;
+    height: 90px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    }
+    .elements-header{
+        display: flex;
+    }
+    .logo-he-samo{
+        width: 105px;
+        height: 103px;
+        margin-left: 100px;
+        margin-top: 0px;
+    }
+    .knigi-he{
+        margin-left: 8%;
+    }
+    .ludi-he{
+        margin-left: 3%;
+    }
+    .obmeni-he{
+        margin-left: 3%;
+    }
+    .stroka-search-he{
+        margin-left: 15%;
+        margin-top: 23px;
+        padding-left: 15px;
+        padding-right: 15px;
+        background-color: white;
+        height: 40px;
+        width: 310px;
+        border-radius: 20px;
+        font-size: large;
+        box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.26);
+    }
+    .notifications-he{
+        width: 10%;
+        height: auto;
+        margin-left: 5%;
+        margin-top: 20px;
+    }
+    .logo-he-img-samo{
+        width: 30%;
+        height: auto;
+    }
+    .vhod-but-he{
+        color: black;
+        background-color: #ff8615;
+        height: 55px;
+        width: 120px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 20px;
+        margin-top: 15px;
+        box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.26);
+    }
+}
